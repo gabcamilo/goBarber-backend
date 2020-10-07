@@ -1,12 +1,26 @@
-# TypeScript Node Express API boilerplate
+# GoBarber Backend
 
-Quick start template to create Node APIs with TypeScript and Express.
+Application implemented on GoStack bootcamp by Rocketseat
 
-## Implemented features
+## Release 0.1.0
 
-- TypeScript config
-- EditorConfig
-- ESLint
-- Prettier
-- VSCode Debugger
-- A simple Express server with the root route
+App state when finishing level 2
+
+### Implemented Features
+
+#### Appointments
+
+* Create
+* List
+
+#### Users
+
+* Create
+* Update Avatar
+
+#### Authentication
+
+* Password hash
+* Validation through JWT token
+
+#### Global Error Handler
